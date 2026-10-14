@@ -40,7 +40,7 @@ const translations = {
     about: {
       tag: "نبذة مهنية",
       title: "دقة هندسية ميدانية وقيادة تنفيذية في المشاريع العملاقة",
-      p1: "أنا محمد علي أحمد خطاب، طالب بالسنة الثالثة بقسم هندسة الميكاترونكس بالمعهد العالي للهندسة والتكنولوجيا بالمحلة الكبرى، معفى نهائياً من التجنيد، وأمتلك خبرة موقعية متواصلة ومكثفة تمتد منذ 2022 وحتى 2026 في مشاريع قومية ضخمة للبنية التحتية.",
+      p1: "أنا محمد علي أحمد خطاب، طالب بالسنة الرابعة بقسم هندسة الميكاترونكس بالمعهد العالي للهندسة والتكنولوجيا بالمحلة الكبرى، معفى نهائياً من التجنيد، وأمتلك خبرة موقعية متواصلة ومكثفة تمتد منذ 2022 وحتى 2026 في مشاريع قومية ضخمة للبنية التحتية.",
       p2: "اكتسبت خبرة عميقة من خلال العمل الميداني كمهندس موقع للأعمال الكهروميكانيكية مع كبرى شركات المقاولات (REDCON Construction) في مشروع 'مستقبل مصر' الاستراتيجي (محور الضبعة)، حيث قادت إشرافياً ونفذت أعمال تركيب وتجربة 14 مضخة رفع يابانية من طراز Torishima، إلى جانب شبكات الجهد المتوسط (11/22 kV) والتحكم عبر VSDs و Soft Starters، وشبكات مكافحة الحريق والتكييف المركزي.",
       p3: "أتميز بالقدرة العالية على التنسيق بين الاستشاري، المالك، وموردي المعدات العالمية، وإدارة محاضر الفحص والاستلام (IR/MIR) وتسليم الأعمال دون ملاحظات، مما يجمع بين الفكر الهندسي الأكاديمي والمهارة التنفيذية الصارمة على أرض الواقع.",
       personalInfo: {
@@ -247,7 +247,7 @@ const translations = {
     education: {
       tag: "المؤهل الدراسي",
       title: "التعليم الأكاديمي والبيانات الإضافية",
-      degree: "طالب بالسنة الثالثة - قسم هندسة الميكاترونكس",
+      degree: "طالب بالسنة الرابعة - قسم هندسة الميكاترونكس",
       institution: "المعهد العالي للهندسة والتكنولوجيا بالمحلة الكبرى",
       details: "دراسة متكاملة تجمع بين الهندسة الميكانيكية، الهندسة الكهربائية، والتحكم الآلي والبرمجة.",
       badges: [
@@ -345,7 +345,7 @@ const translations = {
     about: {
       tag: "Professional Profile",
       title: "Field Precision & High-Stakes Engineering Site Leadership",
-      p1: "I am Mohamed Ali Ahmed Khattab, a 3rd-year Mechatronics Engineering student at the Higher Institute of Engineering & Technology in El-Mahalla El-Kubra. Military status: permanently exempt. Since 2022, I have immersed myself in heavy electromechanical field execution across critical national infrastructure projects.",
+      p1: "I am Mohamed Ali Ahmed Khattab, a 4th-year Mechatronics Engineering student at the Higher Institute of Engineering & Technology in El-Mahalla El-Kubra. Military status: permanently exempt. Since 2022, I have immersed myself in heavy electromechanical field execution across critical national infrastructure projects.",
       p2: "Having served on-site with industry titan REDCON Construction on the landmark 'Future of Egypt' mega project (El Dabaa Corridor), I directed the supervision, installation, alignment, and testing of 14 Japanese Torishima heavy-duty water pumps, along with 11/22 kV medium voltage networks, transformers, motor control centers (VSDs & soft starters), and comprehensive HVAC and firefighting systems.",
       p3: "I excel in uniting multi-stakeholder workflows: managing tight coordination between international equipment manufacturers, technical consultants (e.g. Dar Al-Handasah / Project Consultants), and site teams. My focus is delivering uncompromised quality through meticulous IR/MIR submittals and streamlined testing & commissioning.",
       personalInfo: {
@@ -552,7 +552,7 @@ const translations = {
     education: {
       tag: "Academic Foundation",
       title: "Higher Education & Credentials",
-      degree: "Undergraduate Student – 3rd Year, Mechatronics Engineering",
+      degree: "Undergraduate Student – 4th Year, Mechatronics Engineering",
       institution: "Higher Institute of Engineering & Technology, El-Mahalla El-Kubra",
       details: "Comprehensive interdisciplinary engineering curriculum bridging mechanical design, electrical power, automation systems, and electronic instrumentation.",
       badges: [
